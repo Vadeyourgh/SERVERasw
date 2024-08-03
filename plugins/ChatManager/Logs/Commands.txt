@@ -1,0 +1,108 @@
+[Tue Jul 02 09:54:58 UTC 2024] sora: /citizen
+[Tue Jul 02 09:55:53 UTC 2024] sora: /citizens:npc
+[Tue Jul 02 09:56:00 UTC 2024] sora: /citizens:npc2
+[Tue Jul 02 09:56:04 UTC 2024] sora: /citizens:template
+[Tue Jul 02 09:56:13 UTC 2024] sora: /citizens:trait
+[Tue Jul 02 09:56:19 UTC 2024] sora: /citizens:npc
+[Tue Jul 02 09:56:22 UTC 2024] sora: /citizens
+[Tue Jul 02 10:13:33 UTC 2024] sora: /dailyrewards
+[Tue Jul 02 10:13:33 UTC 2024] sora: /cp daily_rewards
+[Tue Jul 02 10:14:47 UTC 2024] sora: /dailyrewards
+[Tue Jul 02 10:14:47 UTC 2024] sora: /cp daily_rewards
+[Tue Jul 02 10:15:39 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:16:17 UTC 2024] sora: /cp rank_ultra
+[Tue Jul 02 10:16:22 UTC 2024] sora: /cp rank_legend
+[Tue Jul 02 10:16:24 UTC 2024] sora: /cp rank_legend
+[Tue Jul 02 10:16:31 UTC 2024] sora: /cp rank_hero
+[Tue Jul 02 10:16:36 UTC 2024] sora: /enderchest
+[Tue Jul 02 10:18:46 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 10:19:05 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 10:19:08 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 10:19:31 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 10:20:02 UTC 2024] sora: /help
+[Tue Jul 02 10:20:27 UTC 2024] sora: /premiumcurrency sora add 40000
+[Tue Jul 02 10:20:30 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 10:20:54 UTC 2024] sora: /wilderness
+[Tue Jul 02 10:22:45 UTC 2024] sora: /spawn
+[Tue Jul 02 10:23:01 UTC 2024] sora: /dailyrewards
+[Tue Jul 02 10:23:01 UTC 2024] sora: /cp daily_rewards
+[Tue Jul 02 10:24:00 UTC 2024] sora: /givecustomitem desert_key
+[Tue Jul 02 10:24:01 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:24:11 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:24:23 UTC 2024] sora: /givecustomitem dracula_key
+[Tue Jul 02 10:24:27 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:24:39 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:24:41 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:25:06 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:25:11 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:25:35 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:25:43 UTC 2024] sora: /dungeons help
+[Tue Jul 02 10:25:53 UTC 2024] sora: /dungeons list
+[Tue Jul 02 10:26:17 UTC 2024] sora: /dungeons unlock sora 1
+[Tue Jul 02 10:26:21 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:26:26 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:26:35 UTC 2024] sora: /key view sora
+[Tue Jul 02 10:26:56 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:27:06 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:27:09 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:27:22 UTC 2024] sora: /dungeons unlock sora 9
+[Tue Jul 02 10:27:26 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:27:31 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:28:25 UTC 2024] sora: /spawn
+[Tue Jul 02 10:28:37 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:28:51 UTC 2024] sora: /dungeons unlock sora 20
+[Tue Jul 02 10:28:52 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:28:57 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:28:59 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 10:29:11 UTC 2024] sora: /wilderness
+[Tue Jul 02 10:29:30 UTC 2024] sora: /spawnboss desert_outcast
+[Tue Jul 02 10:30:14 UTC 2024] sora: /cp main_menu
+[Tue Jul 02 10:30:35 UTC 2024] sora: /spawn
+[Tue Jul 02 10:30:41 UTC 2024] sora: /cp links
+[Tue Jul 02 10:54:43 UTC 2024] sora: /discord
+[Tue Jul 02 10:54:55 UTC 2024] sora: /link
+[Tue Jul 02 11:00:46 UTC 2024] sora: /luckperms:lp
+[Tue Jul 02 11:00:54 UTC 2024] sora: /luckperms:perms
+[Tue Jul 02 11:01:11 UTC 2024] sora: /luckperms:perm editor
+[Tue Jul 02 11:06:31 UTC 2024] sora: /cp links
+[Tue Jul 02 11:14:55 UTC 2024] sora: /cp links
+[Tue Jul 02 11:14:58 UTC 2024] sora: /cp links
+[Tue Jul 02 11:16:25 UTC 2024] sora: /cp links
+[Tue Jul 02 11:17:15 UTC 2024] sora: /cp dungeons
+[Tue Jul 02 11:26:37 UTC 2024] sora: /warpinfo shops
+[Tue Jul 02 11:26:42 UTC 2024] sora: /warp shop
+[Tue Jul 02 11:27:31 UTC 2024] sora: /crates tp
+[Tue Jul 02 11:28:17 UTC 2024] sora: /cp rank_ultra
+[Tue Jul 02 11:28:24 UTC 2024] sora: /cp rank_legend
+[Tue Jul 02 11:28:27 UTC 2024] sora: /cp rank_hero
+[Tue Jul 02 11:28:34 UTC 2024] sora: /cp premium_store
+[Tue Jul 02 11:43:45 UTC 2024] sora: /dailyrewards
+[Tue Jul 02 11:43:45 UTC 2024] sora: /cp daily_rewards
+[Tue Jul 02 11:44:02 UTC 2024] sora: /cp sell_menu_mining
+[Tue Jul 02 11:44:20 UTC 2024] sora: /cp buy_menu_combat
+[Tue Jul 02 11:44:37 UTC 2024] sora: /sit
+[Tue Jul 02 11:44:49 UTC 2024] sora: /gmask
+[Tue Jul 02 11:44:53 UTC 2024] sora: /gmask
+[Tue Jul 02 11:44:59 UTC 2024] sora: /pa
+[Tue Jul 02 11:45:12 UTC 2024] sora: /pa auction sora
+[Tue Jul 02 11:45:49 UTC 2024] sora: /balance
+[Tue Jul 02 11:45:56 UTC 2024] sora: /balancetop
+[Sat Aug 03 10:46:34 UTC 2024] vadeyourgh: /dailyrewards
+[Sat Aug 03 10:46:34 UTC 2024] vadeyourgh: /cp daily_rewards
+[Sat Aug 03 10:46:46 UTC 2024] vadeyourgh: /skin
+[Sat Aug 03 10:48:51 UTC 2024] vadeyourgh: /staff
+[Sat Aug 03 10:49:01 UTC 2024] vadeyourgh: /help
+[Sat Aug 03 10:49:42 UTC 2024] vadeyourgh: /cp premium_store
+[Sat Aug 03 10:49:46 UTC 2024] vadeyourgh: /cp rank_hero
+[Sat Aug 03 10:50:27 UTC 2024] vadeyourgh: /cp miners
+[Sat Aug 03 10:51:56 UTC 2024] vadeyourgh: /randomtp
+[Sat Aug 03 10:54:04 UTC 2024] vadeyourgh: /cp main_menu
+[Sat Aug 03 10:54:09 UTC 2024] vadeyourgh: /warpinfo
+[Sat Aug 03 10:54:19 UTC 2024] vadeyourgh: /back
+[Sat Aug 03 10:55:06 UTC 2024] vadeyourgh: /rtpreload
+[Sat Aug 03 10:55:10 UTC 2024] vadeyourgh: /rtp
+[Sat Aug 03 10:56:39 UTC 2024] vadeyourgh: /bt
+[Sat Aug 03 10:57:40 UTC 2024] vadeyourgh: /day
+[Sat Aug 03 10:59:42 UTC 2024] vadeyourgh: /gamerule keepInventory
+[Sat Aug 03 10:59:50 UTC 2024] vadeyourgh: /spawn
+[Sat Aug 03 11:00:05 UTC 2024] vadeyourgh: /lp editor

@@ -1,0 +1,33 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722682838368
+  login: 1722682480667
+  kits:
+    player: 1722681989988
+    legend: 1722682542603
+money: '300.0'
+last-account-name: vadeyourgh
+logoutlocation:
+  world: 10367a36-87e5-4bba-a333-f7768b91f459
+  world-name: spawn
+  x: 752.5
+  y: 68.0
+  z: 912.5
+  yaw: -169.04998779296875
+  pitch: 77.55001068115234

@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719920770906
+  login: 1719920608329
+  kits:
+    legend: 1719915715515
+money: '420.0'
+last-account-name: sora
+logoutlocation:
+  world: 10367a36-87e5-4bba-a333-f7768b91f459
+  world-name: spawn
+  x: 791.1039908762672
+  y: 68.0
+  z: 904.2458695658629
+  yaw: 83.40194702148438
+  pitch: 4.799976348876953
